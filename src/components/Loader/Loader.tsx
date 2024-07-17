@@ -1,4 +1,4 @@
-@ts-nocheck
+//@ts-nocheck
 
 import { InfinitySpin } from "react-loader-spinner";
 import css from "./loader.module.css"
